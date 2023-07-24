@@ -11,16 +11,6 @@ Intensivão Java Spring realizado pela Dev Superior Escola de Programação
 |`http://localhost:8080/lists`                                                 | GET | Retorna Lista de Categoria |
 |`http://localhost:8080/lists/1/games`                                         | GET | Retorna Jogos por Categoria |
 
-
- ### URLs
-
-|  URL |  Método | Descrição |
-|----------|--------------|--------------|
-|`http://localhost:8080/games`                                                 | GET | Retorna lista de Jogos |
-|`http://localhost:8080/games/1`                                               | GET | Retorna jogo por id |
-|`http://localhost:8080/lists`                                                 | GET | Retorna Lista de Categoria |
-|`http://localhost:8080/lists/1/games`                                         | GET | Retorna Jogos por Categoria |
-
 ## Modelo de domínio DSList
 
 ![Modelo de domínio DSList](https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/dslist-model.png)
