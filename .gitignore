@@ -37,3 +37,4 @@ build/
 
 .data/
 docker-compose.yml
+create.sql
